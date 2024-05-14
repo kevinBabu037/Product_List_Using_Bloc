@@ -16,8 +16,7 @@ class ScreenHome extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     context.read<ProductBloc>().add(FechProductsEvent()); 
-    return  Scaffold( 
-      backgroundColor:kClrBlack,   
+    return  Scaffold(   
       body:SafeArea(
         child: Container(
           decoration: BoxDecoration(     
@@ -27,7 +26,7 @@ class ScreenHome extends StatelessWidget {
           end: Alignment.centerRight,
           colors: [ 
            kClrAmber, 
-           kClrLiteBlck 
+           kClrBlack 
           ]
           )
       ),
