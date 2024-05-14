@@ -1,0 +1,1 @@
+ String placeHolderImage ='images/placeholder.png';
