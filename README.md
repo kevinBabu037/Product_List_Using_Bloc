@@ -1,16 +1,4 @@
-# interview_task
 
-A new Flutter project.
 
-## Getting Started
+![WhatsApp Image 2024-05-14 at 10 18 38_61c1a6cb](https://github.com/kevinBabu037/Product_List_Using_Bloc/assets/144242959/471c48fc-bdc0-47b6-9230-9814a431d499)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
